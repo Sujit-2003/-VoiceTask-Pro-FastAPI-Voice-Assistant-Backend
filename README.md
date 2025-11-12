@@ -3,7 +3,7 @@
 A comprehensive FastAPI backend system that powers voice assistant functionality through Vapi integration. This system manages todos, reminders, and calendar events with SQLite database storage and provides structured API endpoints for voice-activated commands.
 
 ## Author
-**Macha Praveen**
+**k sujit varma**
 
 ## Overview
 
